@@ -1,0 +1,17 @@
+In a harsh or hostile environment, humans can survive :  
+- 3 seconds without thinking  
+- 3 minutes without breathing  
+- 3 hours without protection  
+- 3 days without drinking water  
+- 3 weeks without eating food  
+
+
+
+---
+current:
+  title: Survival, the rule of Threes
+  author: [Cerbere.Ace](cerbere.ace@gmail.com)
+  license: CC0-1.0
+  file: 
+    url: <./rule-of-threes.txt>
+...
